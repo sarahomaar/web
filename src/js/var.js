@@ -1,0 +1,1 @@
+export var img=document.getElementById('imgid');

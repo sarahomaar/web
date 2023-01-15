@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1, p, div {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+::selection {
+    background-color: yellow;
+    color: red;
+}
